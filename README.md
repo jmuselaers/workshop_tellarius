@@ -1,5 +1,5 @@
 # Cloudera Data Science Workbench demos
-Basic tour of Cloudera Data Science Workbench.
+Basic tour of Cloudera Data Science Workbench by Joep Muselaers 20190131
 
 ## Workbench
 There are 4 scripts provided which walk through the interactive capabilities of Cloudera Data Science Workbench.
