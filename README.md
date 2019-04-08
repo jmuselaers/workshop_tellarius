@@ -1,6 +1,9 @@
 # Cloudera Data Science Workbench demos
 Basic tour of Cloudera Data Science Workbench by Joep Muselaers 20190131
 
+# Data Sciebce Workbench URL
+https://cdsw.cloudera.tellarius.eu
+
 
 # Traininguser logins
 
